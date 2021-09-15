@@ -673,29 +673,6 @@
       ]
    },
    {
-      "name": "Mi 8 Pro",
-      "brand": "Xiaomi",
-      "codename": "equuleus",
-      "supported_versions": [
-         {
-            "version_code": "eleven",
-            "stable": true
-         },
-         {
-            "version_code": "eleven_plus",
-            "stable": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_equuleus",
-         "kernel_xiaomi_polaris",
-         "vendor_xiaomi_equuleus",
-         "vendor_xiaomi-firmware",
-         "device_xiaomi_sdm845-common",
-         "vendor_xiaomi_sdm845-common"
-      ]
-   },
-   {
       "name": "5T",
       "brand": "OnePlus",
       "codename": "dumpling",
@@ -740,6 +717,29 @@
          "device_oneplus_sdm845-common",
          "device_oneplus_common",
          "vendor_oneplus_sdm845-common"
+      ]
+   },
+   {
+      "name": "Mi 8 Pro",
+      "brand": "Xiaomi",
+      "codename": "equuleus",
+      "supported_versions": [
+         {
+            "version_code": "eleven",
+            "stable": true
+         },
+         {
+            "version_code": "eleven_plus",
+            "stable": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_equuleus",
+         "kernel_xiaomi_polaris",
+         "vendor_xiaomi_equuleus",
+         "vendor_xiaomi-firmware",
+         "device_xiaomi_sdm845-common",
+         "vendor_xiaomi_sdm845-common"
       ]
    },
    {
